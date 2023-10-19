@@ -20,8 +20,11 @@ Cada pedido tiene el estado actual del pedido. Dichos estados pueden ser: nuevo,
 # Desarrollo 
 1.) Identifique las principales clases del contexto descrito.
 
+R: Las clases dentro de la problematica serian: Cliente, Cuenta y Carrito de compras.
+
 2.) Identifique las clases que se relacionen entre sí, y el tipo de relación identificada.
 
 3.) Para las relaciones que se requiera, identifique las multiplicidades asociadas.
 
 4.) Construya una primera versión de su diagrama de clases, usando Visual Paradigm.
+
