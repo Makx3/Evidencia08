@@ -16,3 +16,12 @@ La cuenta también esta compuesta de los pedidos de los clientes. Es posible que
 
 
 Cada pedido tiene el estado actual del pedido. Dichos estados pueden ser: nuevo, creado, despachado, recibido, cerrado. Tanto el pedido como el carrito de la compra están asociados con familias de productos que estás asociados a un producto específico. Cada familia de productos está relacionado exactamente con un producto. Un producto puede estar asociado a muchas familias de productos o a ninguno.
+
+# Desarrollo 
+1.) Identifique las principales clases del contexto descrito.
+
+2.) Identifique las clases que se relacionen entre sí, y el tipo de relación identificada.
+
+3.) Para las relaciones que se requiera, identifique las multiplicidades asociadas.
+
+4.) Construya una primera versión de su diagrama de clases, usando Visual Paradigm.
